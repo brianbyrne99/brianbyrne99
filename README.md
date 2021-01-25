@@ -11,7 +11,6 @@ My name is Brian and I am a Stage 3 Computer Science in Data Science Student ori
   <img alt="R" src="https://img.shields.io/badge/-R-165CAA?style=flat-square&logo=r&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=java&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=flat-square&logo=c&logoColor=white" />
-   <img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=flat-square&logo=c&logoColor=white" />
     </li>
 </p>
 </li>
