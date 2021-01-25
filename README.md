@@ -6,6 +6,9 @@ My name is Brian and I am a Stage 3 Computer Science in Data Science Student ori
 </p>
 <p style="text-align: center; margin-top: 20px;">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python%20-%2300599C.svg?&style=for-the-badge&logo=python&logoColor=white&color=306998">
+    <img src="https://img.shields.io/badge/MySQL%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=00758F">
+    <img src="https://img.shields.io/badge/-C%20Programming-orange"/>
 </p>
 
 
