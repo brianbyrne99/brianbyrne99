@@ -8,8 +8,14 @@ My name is Brian and I am a Stage 3 Computer Science in Data Science Student ori
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python%20-%2300599C.svg?&style=for-the-badge&logo=python&logoColor=white&color=306998">
     <img src="https://img.shields.io/badge/MySQL%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=00758F">
-    <img src="https://img.shields.io/badge/-C%20Programming-orange"/>
+    <img alt="R" src="https://img.shields.io/badge/-R-165CAA?style=flat-square&logo=r&logoColor=white" />
+    <img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=flat-square&logo=c&logoColor=white" />
 </p>
+</li>
+<li>Other:<br>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-E95420?style=flat-square&logo=linux&logoColor=black&textColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-e67e22?style=flat-square&logo=git&logoColor=white" />
+</li>
 
 
 
