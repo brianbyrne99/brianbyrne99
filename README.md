@@ -5,11 +5,12 @@ My name is Brian and I am a Stage 3 Computer Science in Data Science Student ori
 <a href="https://www.strava.com/athletes/53357142"><img src="https://img.shields.io/badge/strava-%230077B5.svg?&style=for-the-badge&logo=strava&logoColor=white&color=FC6100"/></a>
 </p>
 <p style="text-align: center; margin-top: 20px;">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python%20-%2300599C.svg?&style=for-the-badge&logo=python&logoColor=white&color=306998">
-    <img src="https://img.shields.io/badge/MySQL%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=00758F">
-    <img alt="R" src="https://img.shields.io/badge/-R-165CAA?style=flat-square&logo=r&logoColor=white" />
-    <img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=flat-square&logo=c&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-165CAA?style=flat-square&logo=r&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=java&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=flat-square&logo=c&logoColor=white" />
+   <img alt="R" src="https://img.shields.io/badge/-R-165CAA?style=flat-square&logo=r&logoColor=white" />
+   <img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=flat-square&logo=c&logoColor=white" />
 </p>
 </li>
 <li>Other:<br>
