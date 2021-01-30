@@ -10,6 +10,7 @@ My name is <b>Brian</b> and I am a <b>Stage 3 Computer Science in Data Science S
   <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=java&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=flat-square&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-8e44ad?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-165CAA?style=flat-square&logo=r&logoColor=white" />
     </li>
 </p>
