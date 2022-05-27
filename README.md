@@ -11,7 +11,6 @@ My name is <b>Brian</b> and I am a <b>Stage 4 Computer Science with Data Science
   <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=java&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=00758F">
   <img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-8e44ad?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-165CAA?style=for-the-badge&logo=r&logoColor=white" />
     </li>
 </p>
