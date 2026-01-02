@@ -1,6 +1,5 @@
 ### Hi there 👋
-My name is <b>Brian</b> and I am a <b>Stage 4 Computer Science with Data Science Student in UCD</b> (originally from Meath), with a keen interest in technology, statistics, rugby and music.
-<p style="text-align: center;">
+Full time software engineer, with interests in all things computer science💻 travel✈️, history📖 and rugby🏉. Irish based in Australia (so original I know...).
     <a href="https://www.linkedin.com/in/brian-byrne-b85025201/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.strava.com/athletes/53357142"><img src="https://img.shields.io/badge/strava-%230077B5.svg?&style=for-the-badge&logo=strava&logoColor=white&color=FC6100"/></a>
 </p>
