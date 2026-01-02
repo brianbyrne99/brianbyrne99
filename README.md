@@ -5,9 +5,9 @@ Full time software engineer, with interests in all things:
 * history 📖
 * rugby 🏉
 
-Irish based in Australia (so original I know...).
+Irish based in Australia (so original I know...). If you've any questions, hit me up on [LinkedIn](https://www.linkedin.com/in/brian-byrne-b85025201/) please.
 
-    <a href="https://www.linkedin.com/in/brian-byrne-b85025201/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/brian-byrne-b85025201/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.strava.com/athletes/53357142"><img src="https://img.shields.io/badge/strava-%230077B5.svg?&style=for-the-badge&logo=strava&logoColor=white&color=FC6100"/></a>
 </p>
 </li>
